@@ -2,6 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 theme = "hugo-theme-terminal"
 pagination.pagerSize = 5
+enableRobotsTXT = true
 
 [markup.goldmark.renderer]
   unsafe = true
