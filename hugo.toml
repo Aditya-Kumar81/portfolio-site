@@ -7,6 +7,17 @@ enableRobotsTXT = true
 [markup.goldmark.renderer]
   unsafe = true
 
+
+[outputs]
+home = ["HTML", "RSS", "JSON", "Robots"]
+
+[outputFormats.Robots]
+mediaType = "text/plain"
+baseName = "robots"
+isPlainText = true
+notAlternative = true
+
+
 [params]
   contentTypeName = "posts"
   showMenuItems = 2
