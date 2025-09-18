@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://aditya-kumar.tech/"
 languageCode = "en-us"
 theme = "hugo-theme-terminal"
 pagination.pagerSize = 5
