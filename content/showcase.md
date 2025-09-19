@@ -1,5 +1,5 @@
 +++
-author = "Hugo Authors & Radek"
+author = "Aditya"
 title = "Showcase"
 date = "2019-03-11"
 description = "Sample article showcasing basic styling and formatting for HTML elements."
