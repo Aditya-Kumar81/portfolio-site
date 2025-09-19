@@ -1,6 +1,6 @@
 +++
 title = "Bonjour"
-date = "19.09.2025"
+date = "2025.09.19"
 author = "kiteflinty"
 cover = "hello.jpg"
 description = "Big words by Big people"

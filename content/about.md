@@ -1,6 +1,6 @@
 +++
 title = "About"
-date = "19.09.2025"
+date = "2025.09.19"
 author = "Aditya"
 +++
 
