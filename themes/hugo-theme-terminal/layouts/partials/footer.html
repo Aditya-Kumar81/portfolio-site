@@ -1,24 +1,32 @@
 <footer class="footer">
   <div class="footer__inner">
     {{ if $.Site.Copyright }}
-      <div class="copyright copyright--user">
-        <span>{{ $.Site.Copyright | safeHTML }}</span>
+    <div class="copyright copyright--user">
+      <span>{{ $.Site.Copyright | safeHTML }}</span>
+    </div>
     {{ else }}
+    <div class="copyright copyright--default">
+      <span>
+        © {{ now.Year }} Powered by
+        <a
+          href="https://github.com/Aditya-Kumar81"
+          target="_blank"
+          rel="noopener noreferrer nofollow"
+          >Kiteflinty</a
+        >
+      </span>
 
-        <span>© {{ now.Year }} Powered by 
-   <a href="https://github.com/Aditya-Kumar81" target="_blank" rel="noopener noreferrer nofollow">Kiteflinty</a>
-</span>
-
-
-      <span>:: <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Special </a> Thanks to <a href="https://www.riotgames.com/en" target="_blank">Riot</a></span>
-      </div>
+      <span>
+        :: <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Special</a> thanks
+        to <a href="https://www.riotgames.com/en" target="_blank">Riot</a>
+      </span>
+    </div>
+    {{ end }}
   </div>
 </footer>
 
-{{ $menu := resources.Get "js/menu.js" | js.Build }}
-{{ $cp := resources.Get "js/code.js" | js.Build }}
-
-{{ $bundle := slice $menu $cp | resources.Concat "bundle.js" | resources.Minify }}
+{{ $menu := resources.Get "js/menu.js" | js.Build }} {{ $cp := resources.Get "js/code.js" | js.Build
+}} {{ $bundle := slice $menu $cp | resources.Concat "bundle.js" | resources.Minify }}
 
 <script type="text/javascript" src="{{ $bundle.RelPermalink }}"></script>
 
