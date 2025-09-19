@@ -6,7 +6,7 @@ author = "Aditya"
 
 # Hi there
 
-My name is Aditya and I'm bad at Valorant. I've reaches Silver3 at my prime.
+My name is Aditya and I'm bad at Valorant. I've reaches Silver3 in episode 9 ACT III.
 
 We all know how hard is to play valorant in a 5 stack as lot of smurfs come on the opposing stack and thats tough.
 
