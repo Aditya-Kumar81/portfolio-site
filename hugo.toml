@@ -26,10 +26,10 @@ notAlternative = true
 
 [languages]
   [languages.en]
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
-    keywords = ""
-    copyright = ""
+    title = "Aditya Kumar"
+    subtitle = "My simple Blog Portfolio"
+    keywords = "SEO, Blog, SSG, Hugo, Golang"
+    copyright = "Aditya Kumar"
     menuMore = "More"
     readMore = "Read"
     readOtherPosts = "Read other posts"
