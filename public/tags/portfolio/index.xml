@@ -14,7 +14,7 @@
       <link>http://localhost:1313/posts/stack/</link>
       <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/stack/</guid>
-      <description>Why Hugo? I wanted a fast, lightweight, and customizable way to showcase my projects, thoughts, and ideas. My search led me to static site generators, and Hugo immediately stood out. Unlike traditional content management systems like WordPress, which rely on databases and a heavy backend, Hugo generates a complete set of static HTML files. This approach makes sites incredibly fast, secure, and easy to host.&#xA;Here&amp;rsquo;s what sold me on Hugo:</description>
+      <description>&lt;h1 id=&#34;why-hugo&#34;&gt;Why Hugo?&lt;/h1&gt;&#xA;&lt;p&gt;I wanted a &lt;strong&gt;fast, lightweight, and customizable&lt;/strong&gt; way to showcase my projects, thoughts, and ideas. My search led me to static site generators, and &lt;strong&gt;Hugo&lt;/strong&gt; immediately stood out. Unlike traditional content management systems like WordPress, which rely on databases and a heavy backend, Hugo generates a complete set of static HTML files. This approach makes sites incredibly fast, secure, and easy to host.&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s what sold me on Hugo:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

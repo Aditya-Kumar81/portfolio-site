@@ -14,14 +14,14 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Hi there My name is Aditya and I&amp;rsquo;m bad at Valorant. I&amp;rsquo;ve reaches Silver3 in episode 9 ACT III.&#xA;We all know how hard is to play valorant in a 5 stack as lot of smurfs come on the opposing stack and thats tough.&#xA;&amp;ldquo;I am not in danger, Skyler. I am the danger. A guy opens his door and gets shot, and you think that of me? No. I am the one who knocks.</description>
+      <description>&lt;h1 id=&#34;hi-there&#34;&gt;Hi there&lt;/h1&gt;&#xA;&lt;p&gt;My name is Aditya and I&amp;rsquo;m bad at Valorant. I&amp;rsquo;ve reaches Silver3 in episode 9 ACT III.&lt;/p&gt;&#xA;&lt;p&gt;We all know how hard is to play valorant in a 5 stack as lot of smurfs come on the opposing stack and thats tough.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;I am not in danger, Skyler. I am the danger. A guy opens his door and gets shot, and you think that of me? No. I am the one who knocks.&amp;rdquo;&#xA;— Walter White&lt;/p&gt;</description>
     </item>
     <item>
       <title>Building My Portfolio Blog with Hugo</title>
       <link>http://localhost:1313/posts/stack/</link>
       <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/stack/</guid>
-      <description>Why Hugo? I wanted a fast, lightweight, and customizable way to showcase my projects, thoughts, and ideas. My search led me to static site generators, and Hugo immediately stood out. Unlike traditional content management systems like WordPress, which rely on databases and a heavy backend, Hugo generates a complete set of static HTML files. This approach makes sites incredibly fast, secure, and easy to host.&#xA;Here&amp;rsquo;s what sold me on Hugo:</description>
+      <description>&lt;h1 id=&#34;why-hugo&#34;&gt;Why Hugo?&lt;/h1&gt;&#xA;&lt;p&gt;I wanted a &lt;strong&gt;fast, lightweight, and customizable&lt;/strong&gt; way to showcase my projects, thoughts, and ideas. My search led me to static site generators, and &lt;strong&gt;Hugo&lt;/strong&gt; immediately stood out. Unlike traditional content management systems like WordPress, which rely on databases and a heavy backend, Hugo generates a complete set of static HTML files. This approach makes sites incredibly fast, secure, and easy to host.&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s what sold me on Hugo:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Showcase</title>
